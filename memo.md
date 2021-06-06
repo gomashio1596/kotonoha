@@ -10,20 +10,23 @@
 ## エリア別入手可能アイテム
 <details>
 <summary>ホテル</summary>
+<blockquote>
 
 - クッキー
 - (アサヒ救出後) 水着
 
-
+</blockquote>
 </details>
 
 <!-- ################################################## -->
 
 <details>
 <summary>デヒノ村周辺</summary>
+<blockquote>
 
 <details>
 <summary>デヒノ村</summary>
+<blockquote>
 
 - 女神の置物#1
 - 女神の置物#2
@@ -34,6 +37,7 @@
 
 <details>
 <summary>お店</summary>
+<blockquote>
 
 |  値段  |  商品  |
 | --- | --- |
@@ -42,12 +46,15 @@
 |  1500  |  ストーンフルーツ  |
 |  100000  |  女神の像  |
 
+<blockquote>
 </details>
 
+<blockquote>
 </details>
 
 <details>
 <summary>チリーン村への道</summary>
+<blockquote>
 
 - 女神の置物#3
 - 女神の置物#4
@@ -60,8 +67,10 @@
 - **大きな鳥の卵**
 - **女神の像**
 
+</blockquote>
 </details>
 
+</blockquote>
 </details>
 
 
@@ -69,9 +78,11 @@
 
 <details>
 <summary>チーリン村周辺</summary>
+<blockquote>
 
 <details>
 <summary>チーリン村</summary>
+<blockquote>
 
 - 女神の置物#5
 - 女神の置物#6
@@ -82,6 +93,7 @@
 
 <details>
 <summary>お店</summary>
+<blockquote>
 
 |  値段  |  商品  |
 | --- | --- |
@@ -90,10 +102,12 @@
 |  100000  |  女神の像  |
 |  3500  |  葉っぱのうちわ  |
 
+</blockquote>
 </details>
 
 <details>
 <summary>料理人 ルンダ</summary>
+<blockquote>
 
 |  必要アイテム  |  入手アイテム  |
 | --- | --- |
@@ -111,12 +125,15 @@
 |  岩場の魚  |  <u>岩魚の煮付け</u>  |
 |  カニの足  |  <u>焼きガニ<u>  |
 
+</blockquote>
 </details>
 
+</blockquote>
 </details>
 
 <details>
 <summary>太陽の祭壇</summary>
+<blockquote>
 
 - 女神の置物#8
 - 女神の置物#9
@@ -135,11 +152,12 @@
 - (アサヒ救出後) **水水晶**
 - (アサヒ救出後) **女神の像**
 
-
+</blockquote>
 </details>
 
 <details>
 <summary>チーリン村上-滝</summary>
+<blockquote>
 
 - 小さい魚(薄)*2
 - 長い魚(緑)
@@ -148,8 +166,10 @@
 - バスターフルーツ
 - フルーツの残骸
 
+</blockquote>
 </details>
 
+</blockquote>
 </details>
 
 
@@ -157,18 +177,22 @@
 
 <details>
 <summary>霧の谷周辺</summary>
+<blockquote>
 
 <details>
 <summary>霧の谷</summary>
+<blockquote>
 
 - 女神の置物#10
 - とかげのキノコ[4]
 - 甘い香りのキノコ[2]
 
+</blockquote>
 </details>
 
 <details>
 <summary>霧の谷-隠し</summary>
+<blockquote>
 
 - 女神の置物#11
 - 長い魚(緑)
@@ -177,10 +201,12 @@
 - オレンジの魚
 - (水晶洞窟クリア後) ピンクの巨大魚
 
+</blockquote>
 </details>
 
 <details>
 <summary>霧の谷-滝</summary>
+<blockquote>
 
 - 女神の置物#12
 - 女神の置物#13
@@ -192,17 +218,21 @@
 - **緑のヒレ**
 - **女神の像**
 
+</blockquote>
 </details>
 
+</blockquote>
 </details>
 
 <!-- ################################################## -->
 
 <details>
 <summary>ウコゴ村周辺</summary>
+<blockquote>
 
 <details>
 <summary>ウコゴ村</summary>
+<blockquote>
 
 - 女神の置物#14
 - 女神の置物#15
@@ -210,6 +240,7 @@
 
 <details>
 <summary>お店</summary>
+<blockquote>
 
 |  値段  |  商品  |
 | --- | --- |
@@ -217,10 +248,12 @@
 |  800  |  オレンジの魚  |
 |  100000  |  女神の像  |
 
+</blockquote>
 </details>
 
 <details>
 <summary>薬屋</summary>
+<blockquote>
 
 |  値段  |  商品  |
 | --- | --- |
@@ -228,10 +261,12 @@
 |  2500  |  アーマッスル  |
 |  3000  |  ドムーン  |
 
+</blockquote>
 </details>
 
 <details>
 <summary>アクセサリー屋/防具屋</summary>
+<blockquote>
 
 |  必要アイテム  |  入手アイテム  |
 | --- | --- |
@@ -240,34 +275,42 @@
 |  木の盾<br>毒ヘビの牙<br>カエルの毒<br>トカゲのきのこ  |  毒の盾  |
 |  木の盾<br>緑のヒレ<br>緑のウロコ<br>カタツムリの殻  |  ウロコの盾  |
 
+</blockquote>
 </details>
 
+</blockquote>
 </details>
 
 <details>
 <summary>水晶洞窟</summary>
+<blockquote>
 
 - アリの蜜/働きアリ
 
 <details>
 <summary>右手前</summary>
+<blockquote>
 
 - 女神の置物#17
 - 長い魚(緑)
 - 水晶カメの欠片
 
+</blockquote>
 </details>
 
 <details>
 <summary>左</summary>
+<blockquote>
 
 - 女神の置物#18
 - コウモリの水晶[2]
 
+</blockquote>
 </details>
 
 <details>
 <summary>右奥 (アサヒ救出後)</summary>
+<blockquote>
 
 - (働きアリ/働きアリ)[3]
 - アリの蜜[3]
@@ -276,10 +319,12 @@
 - **応急の加護**
 - **炎の杖**
 
+</blockquote>
 </details>
 
 <details>
 <summary>正面奥</summary>
+<blockquote>
 
 - 女神の置物#19
 - 水晶ネズミの針
@@ -287,29 +332,35 @@
 - ムーンフラワー
 - 応急の加護
 
+</blockquote>
 </details>
 
 <details>
 <summary>最奥</summary>
+<blockquote>
 
 - **炎の加護**
 - **女神の像**
 - **電動二輪車**
 
+</blockquote>
 </details>
 
-
+</blockquote>
 </details>
 
+</blockquote>
 </details>
 
 <!-- ################################################## -->
 
 <details>
 <summary>海岸</summary>
+<blockquote>
 
 <details>
 <summary>海の家</summary>
+<blockquote>
 
 - 女神の置物#20
 - 小さな魚(濃)[2]
@@ -317,14 +368,18 @@
 
 <details>
 <summary>海の家 店員</summary>
+<blockquote>
 
 |  値段  |  商品  |
+| --- | --- |
 |  30000  |  鉄板  |
 
+</blockquote>
 </details>
 
 <details>
 <summary>日本人観光客</summary>
+<blockquote>
 
 |  必要アイテム  |  入手アイテム  |
 | --- | --- |
@@ -341,12 +396,15 @@
 |  岩場の魚  |  <u>焼いた岩魚</u>
 |  カニの足  |  <u>焼きガニ<u>  |
 
+</blockquote>
 </details>
 
+</blockquote>
 </details>
 
 <details>
 <summary>砂浜</summary>
+<blockquote>
 
 - 女神の置物#21
 
@@ -359,39 +417,49 @@
 
 <details>
 <summary>砂浜-隠し</summary>
+<blockquote>
 
 <details>
 <summary>人魚</summary>
+<blockquote>
 
 |  必要アイテム  |  入手アイテム  |
 | --- | --- |
 |  銀のペンダント  |  人魚のウロコ  |
 
+</blockquote>
 </details>
 
+</blockquote>
 </details>
 
+</blockquote>
 </details>
 
+</blockquote>
 </details>
 
 <!-- ################################################## -->
 
 <details>
 <summary>空港前広場</summary>
+<blockquote>
 
 - 女神の置物#23
 
 <details>
 <summary>空港</summary>
+<blockquote>
 
 <details>
 <summary>1階</summary>
+<blockquote>
 
 - 女神の置物#24
 
 <details>
 <summary>ナタネちゃん</summary>
+<blockquote>
 
 |  必要数  |  入手アイテム  |
 | --- | --- |
@@ -402,42 +470,54 @@
 |  50  |  ナタネの写真  |
 |  60  |  歌  |
 
+</blockquote>
 </details>
 
+</blockquote>
 </details>
 
 <details>
 <summary>2階</summary>
+<blockquote>
 
 - 女神の置物#25
 
+</blockquote>
 </details>
 
+</blockquote>
 </details>
 
 <details>
 <summary>ホテル</summary>
+<blockquote>
 
 - リッチなクッキー
 
+</blockquote>
 </details>
 
+</blockquote>
 </details>
 
 <!-- ################################################## -->
 
 <details>
 <summary>アーケード街周辺</summary>
+<blockquote>
 
 <details>
 <summary>王宮前</summary>
+<blockquote>
 
 - 女神の置物#26
 
+</blockquote>
 </details>
 
 <details>
 <summary>アーケード街</summary>
+<blockquote>
 
 - 女神の置物#27
 - 女神の置物#28
@@ -445,15 +525,18 @@
 
 <details>
 <summary>サーフィン店</summary>
+<blockquote>
 
 |  値段  |  商品  |
 | --- | --- |
 |  3000  |  <u>ゼリー飲料</u>  |
 
+</blockquote>
 </details>
 
 <details>
 <summary>ジュース屋</summary>
+<blockquote>
 
 |  値段  |  商品  |
 | --- | --- |
@@ -462,10 +545,12 @@
 |  3000  |  <u>トロピカルラバー</u>  |
 |  2500  |  <u>タピオカミルク</u>  |
 
+</blockquote>
 </details>
 
 <details>
 <summary>お土産屋</summary>
+<blockquote>
 
 |  値段  |  商品  |
 | --- | --- |
@@ -475,10 +560,12 @@
 |  200000  |  ライサントシャツ  |
 |  300000  |  無双ヘルメット  |
 
+</blockquote>
 </details>
 
 <details>
 <summary>何でも屋</summary>
+<blockquote>
 
 |  値段  |  商品  |
 | --- | --- |
@@ -492,37 +579,46 @@
 |  5000  |  カエルの毒  |
 |  10000  |  水晶ネズミの針  |
 
+</blockquote>
 </details>
 
 <details>
 <summary>宝石店</summary>
+<blockquote>
 
-### 必要アイテム
+### 交換可能アイテム
 - 水晶カメの欠片
 - 記念コイン
 - ナタネダイヤ
 - 水水晶
 - 火水晶
 
+</blockquote>
 </details>
 
+</blockquote>
 </details>
 
 <details>
 <summary>アーケード街-奥</summary>
+<blockquote>
 
 - 女神の置物#29
 
 <details>
 <summary>本屋</summary>
+<blockquote>
 
 |  値段  |  商品  |
+| --- | --- |
 |  50000  |  (水晶洞窟クリア前) D・C既刊  |
 
+</blockquote>
 </details>
 
 <details>
 <summary>くじ屋</summary>
+<blockquote>
 
 ### 値段
 50000
@@ -535,19 +631,23 @@
 |  これでええか  |  デヒノアップル*99  |
 |  これがいい  |  記念コイン  |
 
+</blockquote>
 </details>
 
 <details>
 <summary>カフェ</summary>
+<blockquote>
 
 |  値段  |  商品  |
 | --- | --- |
 |  3500  |  (アサヒ救出後) フライドチキン  |
 
+</blockquote>
 </details>
 
 <details>
 <summary>派手な女性</summary>
+<blockquote>
 
 |  必要アイテム  |  価格  |
 | --- | --- |
@@ -555,19 +655,23 @@
 |  カエルの毒  |  2000  |
 |  甘い香りのきのこ  |  無し/アイテム消費無し  |
 
+</blockquote>
 </details>
 
 <details>
 <summary>レビーヘイン教徒</summary>
+<blockquote>
 
 |  値段  |  商品  |
 | --- | --- |
 | 2000/1000  |  ヤシの実[3]  |
 
+</blockquote>
 </details>
 
 <details>
 <summary>魚屋</summary>
+<blockquote>
 
 |  値段  |  商品  |
 | --- | --- |
@@ -576,18 +680,22 @@
 |  5000  |  うなぎ  |
 |  3000  |  大きな魚  |
 
+</blockquote>
 </details>
 
+</blockquote>
 </details>
 
 <details>
 <summary>レビーヘイン本拠地前</summary>
+<blockquote>
 
 - 女神の置物#30
 - **レビーヘインの服**
 
 <details>
 <summary>レビーヘイン本拠地</summary>
+<blockquote>
 
 - 女神の置物#31
 - 女神の置物#32
@@ -595,12 +703,14 @@
 
 <details>
 <summary>大聖堂</summary>
+<blockquote>
 
 - 女神の置物#34
 - D・C最新刊
 
 <details>
 <summary>レビーヘイン地下</summary>
+<blockquote>
 
 - スライム[6]
 - 甘い香りのきのこ
@@ -610,106 +720,133 @@
 - **対応の加護**
 - **女神の像**
 
+</blockquote>
 </details>
 
+</blockquote>
 </details>
 
+</blockquote>
 </details>
 
+</blockquote>
 </details>
 
+</blockquote>
 </details>
 
 <!-- ################################################## -->
 
 <details>
 <summary>ボーニッチ火山周辺</summary>
+<blockquote>
 
 <details>
 <summary>入り口前</summary>
+<blockquote>
 
 - 女神の置物#35
 - 大きな石
 - 赤い花
 - 岩場の魚
 
+</blockquote>
 </details>
 
 <details>
 <summary>入り口</summary>
+<blockquote>
 
 - 女神の置物#36
 - 赤い花[2]
 - ムーンフラワー
 - オレンジの魚
 
+</blockquote>
 </details>
 
 <details>
 <summary>火山</summary>
+<blockquote>
 
 <details>
 <summary>エリア1</summary>
+<blockquote>
 
 - 女神の置物#37
 - 女神の置物#38
 - 岩場の魚[2]
 - 赤い花
 
+</blockquote>
 </details>
 
 <details>
 <summary>エリア2</summary>
+<blockquote>
 
 - 赤い花[2]
 - 大きな石
 - (オオムカデのツメ/オオムカデ)[2]
 
+</blockquote>
 </details>
 
 <details>
 <summary>火山 内部</summary>
+<blockquote>
 
 - 大きな石[2]
 - オオムカデのツメ/オオムカデ
 
 <details>
 <summary>隠し</summary>
+<blockquote>
 
 - 女神の置物#39~#42
 
+</blockquote>
 </details>
 
 <details>
 <summary>火山 内部2</summary>
+<blockquote>
 
 - オオムカデのツメ/オオムカデ
 - 大きな石[4]
 - 火水晶
 
+</blockquote>
 </details>
 
 <details>
 <summary>最奥</summary>
+<blockquote>
 
 - **剛体の加護**  
 
+</blockquote>
 </details>
 
+</blockquote>
 </details>
 
+</blockquote>
 </details>
 
+</blockquote>
 </details>
 
 <!-- ################################################## -->
 
 <details>
 <summary>最後の遺跡</summary>
+<blockquote>
 
-- 弁当
-- しおり
+- お弁当
+- 青いバラのしおり
 
+</blockquote>
 </details>
 
 <!-- ################################################## -->
@@ -720,6 +857,7 @@
 ## トレード
 <details>
 <summary>虫好きの女の子</summary>
+<blockquote>
 
 |  必要アイテム  |  入手アイテム  |
 | --- | --- |
@@ -731,12 +869,14 @@
 |  オオムカデ  |  <u>女神の置物</u>  |
 |  タイコウチ  |  虫あみ  |
 
+</blockquote>
 </details>
 
 <!-- ################################################## -->
 
 <details>
 <summary>釣り好きの男の子</summary>
+<blockquote>
 
 話しかけることで釣り竿を入手
 |  必要アイテム  |  入手アイテム  |
@@ -753,12 +893,14 @@
 |  大きな魚  |  女神の置物  |
 |  岩場の魚  |  女神の置物  |
 
+</blockquote>
 </details>
 
 <!-- ################################################## -->
 
 <details>
 <summary>薬屋の女の子</summary>
+<blockquote>
 
 |  必要アイテム  |  入手アイテム  |
 | --- | --- |
@@ -766,4 +908,5 @@
 |  ガマの油  |  <u>回復薬</u>  |
 |  ムーンフラワー  |  <u>ドムーン</u>  |
 
+</blockquote>
 </details>
