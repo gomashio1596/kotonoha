@@ -11,6 +11,7 @@ wikiとかじゃなくて個人的なメモなので分かりにくかったら�
 [女神の置き物場所一覧 | 効果不明アイテム](items.md "items.md")
 
 ## おまけ、セーブデータの保存場所
-`%USERPROFILE%\Documents\DeskClub\Kotonoha_Lysant\saveData`
+`%USERPROFILE%\Documents\DeskClub\Kotonoha_Lysant\saveData`  
+(よく見たらreamde.txtに書いてた)  
 
 上顎さん素晴らしいゲームをありがとうございました!
